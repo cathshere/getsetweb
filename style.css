@@ -1,0 +1,20 @@
+body{background-color: rgb(195, 157, 205) ;}
+        h1{color: rgb(255, 255, 255);
+        font-style: oblique;}
+        .seconddiv{
+            background-color: bisque;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+        }
+        button{
+            margin: 34px;
+            padding: 5px;
+            margin-top: 45;
+            cursor: pointer
+
+        }
+        button:hover{color: rgb(178, 220, 214);
+        background-color: rgb(70, 42, 70);
+    border: 56px;
+border: lightblue;}
